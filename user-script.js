@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Simple Bypass Notification
+// @name         Bypass Work.ink
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Bypass Volcano - Work.ink CAPTCHA with a simple notification system
