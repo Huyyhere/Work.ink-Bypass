@@ -26,13 +26,11 @@ You need one of these extensions installed before proceeding:
 
 ---
 
-### 2. Install the Script
-
-Click the button below to install the script automatically through your chosen manager:
+### 2. View User-Script
 
 <p align="center">
-  <a href="https://github.com/Huyyhere/Work.ink-Bypass/raw/main/user-script.js">
-    <img src="https://img.shields.io/badge/INSTALL_BYPASS_SCRIPT-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/Huyyhere/Work.ink-Bypass/refs/heads/main/user-script.js">
+    <img src="https://img.shields.io/badge/View User-Script-007ACC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
