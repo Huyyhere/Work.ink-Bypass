@@ -2,7 +2,7 @@
 // @name         Bypass Work.ink
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Bypass Volcano - Work.ink CAPTCHA with a simple notification system
+// @description  Bypass Volcano - Work.ink 
 // @author       Huyyhere
 // @match        https://key.volcano.wtf/*
 // @match        https://work.ink/*
