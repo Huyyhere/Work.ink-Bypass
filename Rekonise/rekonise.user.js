@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Bypass Work.ink
+// @name         Bypass Rekonise
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
-// @description  Bypass Work.ink
+// @version      1.0.0
+// @description  Bypass Rekonise
 // @author       Huyyhere
-// @match        https://work.ink/*
+// @match        https://rekonise.com/*
 // @grant        unsafeWindow
 // @run-at       document-start
 // @downloadURL  https://raw.githubusercontent.com/Huyyhere/bypass-link/refs/heads/main/Rekonise/rekonise-bypass.js
