@@ -7,7 +7,6 @@
 // @match        https://work.ink/*
 // @grant        unsafeWindow
 // @run-at       document-start
-// @downloadURL  https://raw.githubusercontent.com/Huyyhere/Work.ink-Bypass/refs/heads/main/work.ink-bypass.js
-// @updateURL    https://raw.githubusercontent.com/Huyyhere/Work.ink-Bypass/main/workink.user.js
-// @require      https://raw.githubusercontent.com/Huyyhere/Work.ink-Bypass/refs/heads/main/work.ink-bypass.js
+// @downloadURL  https://raw.githubusercontent.com/Huyyhere/bypass-link/refs/heads/main/Work.ink/work.ink-bypass.js
+// @require      https://raw.githubusercontent.com/Huyyhere/bypass-link/refs/heads/main/Work.ink/work.ink-bypass.js
 // ==/UserScript==
